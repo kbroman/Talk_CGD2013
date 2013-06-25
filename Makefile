@@ -45,6 +45,6 @@ webfigs:
 web: webmain webcss webcode webfigs webdata all
 
 tar: mainstuff
-	cd ..;tar czvf CGD2013.tgz CGD2013/*.html CGD2013/css CGD2013/coffee CGD2013/js CGD2013/data CGD2013/figs;mv CGD2013.tgz CGD2013/
+	cd ..;tar chzvf CGD2013.tgz CGD2013/present CGD2013/*.html CGD2013/css CGD2013/coffee CGD2013/js CGD2013/data CGD2013/figs;mv CGD2013.tgz CGD2013/
 
 all: js web presentation.html tar
