@@ -4,7 +4,7 @@ var w = 1280,
     h = 960;
 
 var nodes = d3.range(200).map(function() { return {radius: Math.random() * 12 + 4}; }),
-    colors = ["#F9DFFC", "#8C4374", "slateblue"]
+    colors = ["#C8C8C8", "#6baed6", "#7CF07C"]
 
 var force = d3.layout.force()
     .gravity(0.05)
