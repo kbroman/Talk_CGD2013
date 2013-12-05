@@ -27,20 +27,20 @@ presentation.html: index.html js css/kbroman_talk.css css/kbroman_presentation.c
 	Perl/create_presentation.pl
 
 webmain:
-	scp index.html presentation.html broman-2:public_html/presentations/CGD2013/
+	scp index.html presentation.html broman-2:public_html/presentations/IowaState2013/
 
 webcss:
-	scp css/*.css broman-2:public_html/presentations/CGD2013/css/
+	scp css/*.css broman-2:public_html/presentations/IowaState2013/css/
 
 webcode:
-	scp js/*.js broman-2:public_html/presentations/CGD2013/js/
-	scp coffee/*.coffee broman-2:public_html/presentations/CGD2013/coffee/
+	scp js/*.js broman-2:public_html/presentations/IowaState2013/js/
+	scp coffee/*.coffee broman-2:public_html/presentations/IowaState2013/coffee/
 
 webdata:
-	scp data/hypo.json data/insulinlod.json data/corr_w_scatter.json broman-2:public_html/presentations/CGD2013/data/
+	scp data/hypo.json data/insulinlod.json data/corr_w_scatter.json broman-2:public_html/presentations/IowaState2013/data/
 
 webfigs:
-	scp figs/*.png broman-2:public_html/presentations/CGD2013/figs/
+	scp figs/*.png broman-2:public_html/presentations/IowaState2013/figs/
 
 web: webmain webcss webcode webfigs webdata all
 

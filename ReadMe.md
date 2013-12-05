@@ -1,11 +1,10 @@
 ### Talk: &ldquo;Interactive graphics for high-dimensional genetic data&rdquo;
 
-See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/CGD2013).
+See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/IowaState).
 
-These are slides for a talk I will give for the external advisory
-board of the [Jackson Lab](http://www.jax.org)
-[Center for Genome Dynamics](http://cgd.jax.org) in Bar Harbor, Maine,
-on 25 June 2013.
+These are slides for a talk I will give to graduate stadents in the
+Graphics Working Group, Department of Statistics, Iowa State
+University, Ames, Iowa, on 5 Dec 2013.
 
 The slides were tested for Safari on a Mac and might look terrible in
 some browsers. I have a lot more to learn about handling browser
