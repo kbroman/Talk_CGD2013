@@ -1,10 +1,11 @@
 ### Talk: &ldquo;Interactive graphics for high-dimensional genetic data&rdquo;
 
-See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/IowaState).
+See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/IowaState2013).
 
-These are slides for a talk I will give to graduate stadents in the
-Graphics Working Group, Department of Statistics, Iowa State
-University, Ames, Iowa, on 5 Dec 2013.
+These are slides for a talk I will give to graduate students in the
+Graphics Working Group,
+[Department of Statistics](http://www.stat.iastate.edu/),
+[Iowa State University](http://www.iastate.edu/), Ames, Iowa, on 5 Dec 2013.
 
 The slides were tested for Safari on a Mac and might look terrible in
 some browsers. I have a lot more to learn about handling browser
