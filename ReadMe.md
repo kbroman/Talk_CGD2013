@@ -2,7 +2,7 @@
 
 See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/CGD2013).
 
-These are slides for a talk I will give for the external advisory
+These are slides for a talk I gave for the external advisory
 board of the [Jackson Lab](http://www.jax.org)
 [Center for Genome Dynamics](http://cgd.jax.org) in Bar Harbor, Maine,
 on 25 June 2013.
