@@ -1,6 +1,6 @@
 ### Talk: &ldquo;Interactive graphics for high-dimensional genetic data&rdquo;
 
-See it in action [here](http://www.biostat.wisc.edu/~kbroman/talks/CGD2013).
+See it in action [here](https://kbroman.org/Talk_CGD2013)
 
 These are slides for a talk I gave for the external advisory
 board of the [Jackson Lab](http://www.jax.org)
